@@ -1,0 +1,19 @@
+/* Esto es para verificar si el CSS se carga correctamente */
+body {
+    background-color: #f8f9fa; /* Color de fondo claro */
+}
+
+h1, h2 {
+    margin-bottom: 20px;
+}
+
+form {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    margin-top: 20px;
+}

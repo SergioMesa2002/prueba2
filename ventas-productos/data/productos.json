@@ -1,5 +1,6 @@
 [
   { "id": 1, "nombre": "chocorramo", "precio": 100, "stock": 5 },
   { "id": 2, "nombre": "gansito", "precio": 200, "stock": 10 },
-  { "id": 3, "nombre": "pola", "precio": 150, "stock": 0 }
+  { "id": 3, "nombre": "pola", "precio": 150, "stock": 0 },
+  { "id": 4, "nombre": "carro", "precio": 150, "stock": 0 }
 ]
